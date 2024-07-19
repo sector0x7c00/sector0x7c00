@@ -1,7 +1,7 @@
-👋 Hi, I’m @sector0x7c00
+👋 Olá, eu sou o Sector Boot (0x7c00) 
 
-I believe that to be a computer scientist, you need to understand computer architecture and operating systems.
+Eu acredito que para ser um  bom cientista da computação, precisamos ter sólidos conhecimentos sobre arquitetura de computadores e como os sistemas sistemas operacionais funcionam. 
 
-📟 My purpose is to share knowledge about computer science from scratch.
+Meu propósito é compartilhar meus estudos sobre esses dois assuntos nesse repositório de forma livre e colaborativa. 
 
-
+Fique à vontade para contribuir com sugestões e correções. 
